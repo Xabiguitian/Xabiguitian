@@ -1,4 +1,4 @@
-<div align ="center">Hola, mi nombre es Xabi</div>
+<h1 align ="center">Hola, mi nombre es Xabi</h1>
 
 Soy un estudiante de 2º de Ingeniería Informática de la UDC
 
