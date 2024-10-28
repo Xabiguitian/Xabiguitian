@@ -2,7 +2,12 @@
 
 Soy un estudiante de 2º de Ingeniería Informática de la UDC
 
-##
+<div align="center">
+  <a href="https://github.com/Xabiguitian">
+    <img src="https://skillicons.dev/icons?i=git,github,c,java,html,css,linux,md" />
+  </a>
+</div>
+
 <div>
   <a href="https://github.com/Xabiguitian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xabiguitian&layout=compact&langs_count=7&theme=dracula"/>
