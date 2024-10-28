@@ -7,6 +7,7 @@ Soy un estudiante de 2º de Ingeniería Informática de la UDC
     <img src="https://skillicons.dev/icons?i=git,github,c,java,html,css,linux,md" />
   </a>
 </div>
+<p> </p>
 
 <div align="center">
   <a href="https://github.com/Xabiguitian">
