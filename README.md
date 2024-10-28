@@ -1,4 +1,4 @@
-## Hola, mi nombre es Xabi
+<div align ="center">Hola, mi nombre es Xabi</div>
 
 Soy un estudiante de 2º de Ingeniería Informática de la UDC
 
