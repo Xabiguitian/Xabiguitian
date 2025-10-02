@@ -1,6 +1,6 @@
 <h1 align ="center">Hola, mi nombre es Xabi</h1>
 
-Soy un estudiante de 2º de Ingeniería Informática de la UDC
+Soy un estudiante de 3º de Ingeniería Informática de la UDC
 
 <div align="center">
   <a href="https://github.com/Xabiguitian">
